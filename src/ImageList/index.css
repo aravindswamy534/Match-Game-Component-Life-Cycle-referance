@@ -1,0 +1,8 @@
+.image-logo {
+  height: 100px;
+  width: 100px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

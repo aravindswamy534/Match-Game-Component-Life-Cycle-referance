@@ -1,0 +1,28 @@
+.unordered-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+}
+.radomImage {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.navbar-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  background-color: blue;
+}
+.timeContainer {
+  display: flex;
+  justify-content: center;
+  align-content: flex-start;
+  flex-direction: row;
+}
